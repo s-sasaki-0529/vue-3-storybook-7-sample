@@ -16,6 +16,8 @@
     "@storybook/core-server": "7.0.0-beta.14",
     "@storybook/vue3": "7.0.0-beta.14",
     "@vitejs/plugin-vue": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "storybook": "7.0.0-beta.14",
     "vite": "^4.0.0"
   }
