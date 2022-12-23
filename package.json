@@ -12,6 +12,9 @@
     "vue": "^3.2.45"
   },
   "devDependencies": {
+    "@storybook/builder-vite": "7.0.0-beta.14",
+    "@storybook/core-server": "7.0.0-beta.14",
+    "@storybook/vue3": "7.0.0-beta.14",
     "@vitejs/plugin-vue": "^4.0.0",
     "vite": "^4.0.0"
   }
